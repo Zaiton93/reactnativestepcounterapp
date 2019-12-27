@@ -47,4 +47,4 @@ API used for navigation is react-navigation-stack in order to create drawer menu
 
 ## Sequence Diagram
 
-![sequence diagram](images/seq.png)
+![sequence diagram](images/seq.PNG)
