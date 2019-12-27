@@ -45,6 +45,8 @@ Stepper is a simple mobile app where users could use this app to count their ste
 ## Navigation
 API used for navigation is react-navigation-stack in order to create drawer menu (side menu)
 
+![navigation](images/nav.JPG)
+
 ## Sequence Diagram
 
 ![sequence diagram](images/seq.PNG)
