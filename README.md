@@ -2,7 +2,7 @@
 
 Group Members (Noor)
 1. Zaiton Binti Ahmad Maideen (1523388)
-2. Salwa Mittoulli ()
+2. Salwa Mitouilli (1917002)
 
 # To run the app
 Run this code:
